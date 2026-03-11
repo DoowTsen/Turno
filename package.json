@@ -1,0 +1,17 @@
+{
+  "name": "turno-workspace",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev --workspace @turno/web",
+    "build:web": "npm run build --workspace @turno/web",
+    "lint:web": "npm run lint --workspace @turno/web"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}

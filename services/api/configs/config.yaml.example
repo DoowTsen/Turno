@@ -1,0 +1,20 @@
+app:
+  name: turno-api
+  env: development
+http:
+  port: "8080"
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  database: turno
+  username: root
+  password: "123456"
+  charset: utf8mb4
+redis:
+  host: 127.0.0.1
+  port: 6379
+  password: ""
+  db: 0
+jwt:
+  secret: your-jwt-secret
+  access_token_hours: 72

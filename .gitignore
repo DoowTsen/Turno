@@ -1,0 +1,20 @@
+node_modules/
+.next/
+out/
+dist/
+coverage/
+.env*
+!.env.example
+!.env.*.example
+*.log
+.vscode/
+.DS_Store
+
+# local config
+services/api/configs/config.yaml
+
+# temp scripts
+.tmp-start-api*.ps1
+
+# local build artifacts
+services/api/*.exe
