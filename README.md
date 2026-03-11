@@ -2,7 +2,7 @@
   <img src="docs/assets/logo.png" alt="Turno" width="120" />
   <h1>Turno</h1>
   <p><strong>🛒 现代化二手交易全栈平台 — Web + API Monorepo</strong></p>
-  <p>打通"注册 → 发布 → 收藏 → 下单 → 发货 → 确认收货 → 评价 → 售后"完整链路的练手级全栈项目</p>
+  <p>打通"注册 → 发布 → 收藏 → 下单 → 发货 → 确认收货 → 评价 → 售后"完整交易链路</p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
